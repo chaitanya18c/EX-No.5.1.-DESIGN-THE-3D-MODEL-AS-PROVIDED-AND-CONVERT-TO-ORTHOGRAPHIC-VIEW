@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![image]![Opera Snapshot_2023-05-22_113128_Chaintaya%20ps 1 pdf](https://github.com/chaitanya18c/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119392724/69a200f3-165d-451f-8c19-dab48231e561)
 
 
 ## RESULT:
